@@ -84,7 +84,7 @@ conference:
   lang: en
 
   # Show theme errors: DEFAULT TRUE. SET FALSE FOR PRODUCTION
-  show_errors: False
+  show_errors: True
 
   # Navigation bar
   navigation:
