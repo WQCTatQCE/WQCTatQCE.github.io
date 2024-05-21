@@ -83,8 +83,8 @@ conference:
   # Language
   lang: en
 
-  # Show theme errors:
-  show_errors: True
+  # Show theme errors: DEFAULT TRUE. SET FALSE FOR PRODUCTION
+  show_errors: False
 
   # Navigation bar
   navigation:
