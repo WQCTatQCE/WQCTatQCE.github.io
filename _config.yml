@@ -1,7 +1,7 @@
-title: Conference 2020
+title: Dependability Challenges in Hybrid Classical-Quantum Computing Systems
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Co-located with IEEE QCE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -70,3 +70,10 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+
+
+# Edo added this
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
