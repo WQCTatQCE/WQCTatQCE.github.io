@@ -1,9 +1,12 @@
 name: Build & Publish Ruby Gem
+
+on: [push]
+
 # Gets triggered upon the creation of a new tag
-on:
-  push:
-    tags:
-    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
+# on:
+#   push:
+#     tags:
+#     - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
 # Performs the following steps:
 #   - Sets the environment up
 #   - Builds the gem
