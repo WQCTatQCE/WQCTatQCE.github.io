@@ -1,7 +1,7 @@
 title: Dependability Challenges in Hybrid Classical-Quantum Computing Systems 
 preposition: ''
 description: >-
-  Conference BLABLABLA
+  First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems - Co-located with QCE24
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -190,7 +190,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 47.37808, 8.53935
+      home_coord: 45.50473456711736, -73.56032192670776
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
