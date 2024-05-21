@@ -102,14 +102,14 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2020 (current)
-            disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+      # - name: Previous Editions
+      #   menu:
+      #     - name: 2020 (current)
+      #       disabled: true
+      #     - name: 2019
+      #       relative_url: /2019/
+      #     - name: 2018
+      #       relative_url: /2018/
 
   # Link Preview for Sharing
   link_preview:
@@ -147,20 +147,20 @@ conference:
       color: warning
       pages_only: true
 
-  # Live indications
-  live:
-    date: 01.01.2020
-    timezone: GMT+1
-    stop:       240  # in minutes
-    streaming:
-      enable: true
-      pause:     60  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
-    demo:
-      enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
+  # # Live indications
+  # live:
+  #   date: 01.01.2020
+  #   timezone: GMT+1
+  #   stop:       240  # in minutes
+  #   streaming:
+  #     enable: true
+  #     pause:     60  # in minutes
+  #     prepend:    5  # in minutes
+  #     extend:     5  # in minutes
+  #   demo:
+  #     enable: false
+  #     duration: 300  # in seconds
+  #     pause:     10  # in seconds
 
   talks:
     # Talk categories
