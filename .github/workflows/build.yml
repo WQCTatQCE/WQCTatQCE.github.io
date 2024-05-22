@@ -63,8 +63,8 @@ jobs:
         with:
         #   tag_name: ${{ github.ref }}
         #   release_name: Release ${{ github.ref }}
-          tag_name: v240522
-          release_name: v240522
+          tag_name: v240522_1
+          release_name: v240522_1
           draft: false
           prerelease: false
 
