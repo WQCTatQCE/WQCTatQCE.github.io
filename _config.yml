@@ -1,7 +1,7 @@
 title: DCHCQCS@QCE
 preposition: ''
 description: >-
-  First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems - Colocated with QCE24
+  First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems - Co-located with QCE24
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -29,6 +29,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:title/
+  # sessions:
+  #   output: true
+  #   permalink: /:collection/:title/
   speakers:
     output: true
     permalink: /:collection/:title/
@@ -42,6 +45,11 @@ defaults:
       type: talks
     values:
       layout: talk
+  # - scope:
+  #     path: ""
+  #     type: sessions
+  #   values:
+  #     layout: session
   - scope:
       path: ""
       type: speakers
@@ -90,18 +98,20 @@ conference:
 
   # Navigation bar
   navigation:
-    logo:
-      name: Digital Society Switzerland
-      # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+    # logo:
+    #   name: Digital Society Switzerland
+    #   # img: ''
+    #   url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
     links:
       - name: Program
         relative_url: /program/
-      - name: Talks
+      - name: Sessions
+        # relative_url: /sessions/  
+      # - name: Talks
         relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
+      # - name: Speakers
+      #   relative_url: /speakers/
       - name: Location
         relative_url: /location/
       # - name: Previous Editions
@@ -114,12 +124,12 @@ conference:
       #       relative_url: /2018/
 
   # Link Preview for Sharing
-  link_preview:
-    # also adapt "preposition" property at top for more meaningful descriptions
-    disable: false
-    img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
+  # link_preview:
+  #   # also adapt "preposition" property at top for more meaningful descriptions
+  #   disable: false
+  #   img:
+  #     twitter: 'twitter_preview.png'      # inside /assets/images/
+  #     open_graph: 'facebook_preview.png'  # inside /assets/images/
 
   # Main landing page
   main:
@@ -130,24 +140,24 @@ conference:
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+      # - name: Tickets
+      #   disabled: true
+      #   absolute_url: ''
 
-  # Information boxes
-  info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
-      color: primary
-      main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+  # # Information boxes
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
+  #       ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
 
   # # Live indications
   # live:
@@ -169,7 +179,7 @@ conference:
     main_categories:
       - name: Reproducibility
         color: info
-      - name: Reliability
+      - name: Resiliency
         color: info
       - name: Security and Privacy
         color: info
@@ -177,9 +187,23 @@ conference:
     # Hide icons on talk overview page
     hide_icons: false
 
-  speakers:
-    # Show first and last name
-    show_firstname: true
+
+  # sessions:
+  #   # Talk categories
+  #   main_categories:
+  #     - name: Reproducibility
+  #       color: info
+  #     - name: Resiliency
+  #       color: info
+  #     - name: Security and Privacy
+  #       color: info
+
+  #   # Hide icons on talk overview page
+  #   hide_icons: false
+
+  # speakers:
+  #   # Show first and last name
+  #   show_firstname: true
 
   location:
     # Disable links to locations

@@ -1,18 +1,29 @@
 ---
-name: Arcu Non Odio
+name: Security and Privacy
 speakers:
-  - Alex Rosales
+  - TBA
 categories:
-  - Cat A
-  - Talk
-links:
-  - name: Recodring
-    icon: video
-    absolute_url: https://media.ccc.de/
-  - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
+  - Security and Privacy
+#   - Talk
+# links:
+#   - name: Recodring
+#     icon: video
+#     absolute_url: https://media.ccc.de/
+#   - name: Wikipedia
+#     absolute_url: https://en.wikipedia.org
 ---
 
-Duis at tellus at urna condimentum mattis pellentesque id nibh. In fermentum et sollicitudin ac orci phasellus egestas. Convallis aenean et tortor at risus viverra. Mus mauris vitae ultricies leo integer. Metus dictum at tempor commodo ullamcorper. Sem nulla pharetra diam sit. Eu lobortis elementum nibh tellus molestie nunc.
+The integration of classical-quantum systems presents new security challenges, intertwining with existing concerns in classical network security. Preserving the confidentiality of sensitive data, ensuring the integrity of computations, and addressing potential vulnerabilities are paramount for instilling trust and fostering responsible advancement in this evolving domain. At the quantum level, reliance on classical systems for quantum control, coupled with the emergence of unforeseen attack vectors from both existing and novel adversaries, as well as the potential malicious manipulation of quantum program performance, necessitates thorough exploration.
 
-Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Tellus at urna condimentum mattis. Suspendisse sed nisi lacus sed viverra tellus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nunc eget lorem dolor sed viverra. Id volutpat lacus laoreet non curabitur.
+This workshop session delves into several critical facets of achieving security within classical-quantum integration:
+
+- Migration of classical systems to post-quantum cryptography.
+- Measuring the adoption rate of quantum-resistant cryptographic protocols and secure quantum secret exchange.
+- Ensuring security in both local and distributed quantum computations.
+- Safeguarding the quantum hardware supply chain amidst shifting geopolitical landscapes.
+- Exploring the potential of quantum network protocols to enhance security in classical and quantum domains.
+
+
+##### Session schedule
+
+TBA

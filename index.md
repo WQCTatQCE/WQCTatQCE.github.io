@@ -1,6 +1,11 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
+Quantum Computing (QC) holds the promise of speeding up High-Performance Computing (HPC) workloads by exploiting inherent properties of qubits. Integrating QC in classical HPC systems thus paves the way to a new hybrid computing paradigm: HPC-QC. Such a paradigm unlocks new opportunities and poses fundamentally new challenges. The expectation of the utility of these hybrid systems depends on their dependability, or the ability to operate reliably and securely under a variety of conditions and ensure outcome reproducibility.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+This workshop will:
+- identify integration challenges between classical and quantum technologies with a focus on end-to-end system dependability,
+- anticipate future failures and novel attacks that may affect the availability of HPC-QC systems,
+- solidify a diverse community that is inclusive of fields such as QC, cloud computing, HPC, network security, etc.
+
+Our workshop focuses on the need to develop new engineering principles that can define and guarantee the dependability of hybrid classical-quantum systems, and center on the development of metrics with predictive utility to estimate a priori the impact of design decisions: we believe it is possible to move into a more prescriptive classical- quantum co-design cycle rather than rely on purely experimental work. Our overarching goal is to build an open research and development roadmap for dependable hybrid systems engineering that benefits from transferable expertise and skills from other disciplines while identifying core knowledge and technology gaps that need to be filled. This dependable-by-construction approach will prevent design pitfalls and accelerate the maturation of the HPC-QC ecosystem.
