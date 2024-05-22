@@ -22,7 +22,7 @@ exclude:
   - purgecss.config.js
   - _config.example.yml
   - "jekyll/bundle" #removing this
-  - [vendor]
+  - vendor
 
 # Collections and their defaults
 collections:
