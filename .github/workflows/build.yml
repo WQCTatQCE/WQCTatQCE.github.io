@@ -1,8 +1,8 @@
+name: Generate Website and add as Release
 
 on: [push]
     
 
-name: Generate Website and add as Release
 
 # Performs the following steps:
 #   - Install all dependencies (and caches them for future runs)
@@ -78,7 +78,7 @@ jobs:
           # blog post for more info:
           # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
         #   upload_url: ${{ steps.create_release.outputs.upload_url }}
-          upload_url: DCHCQCS
+          upload_url: ${{ github.repo }}
           asset_path: ./website.zip
           asset_name: website.zip
           asset_content_type: application/zip
