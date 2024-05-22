@@ -78,7 +78,7 @@ jobs:
           # blog post for more info:
           # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
         #   upload_url: ${{ steps.create_release.outputs.upload_url }}
-          upload_url: DHCQCS.github.io
+          upload_url: DCHCQCS.github.io
           asset_path: ./website.zip
           asset_name: website.zip
           asset_content_type: application/zip
