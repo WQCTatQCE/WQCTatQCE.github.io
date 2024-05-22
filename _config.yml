@@ -19,7 +19,7 @@ exclude:
   - REDISTRIBUTED.md
   - screenshot.png
   - jekyll-theme-conference.gemspec
-  - purgecss.config.js
+  # - purgecss.config.js
   - _config.example.yml
   - "jekyll/bundle" #excluding this
   - vendor #excluding this
