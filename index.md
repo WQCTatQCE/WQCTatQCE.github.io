@@ -9,3 +9,9 @@ This workshop will:
 - solidify a diverse community that is inclusive of fields such as QC, cloud computing, HPC, network security, etc.
 
 Our workshop focuses on the need to develop new engineering principles that can define and guarantee the dependability of hybrid classical-quantum systems, and center on the development of metrics with predictive utility to estimate a priori the impact of design decisions: we believe it is possible to move into a more prescriptive classical- quantum co-design cycle rather than rely on purely experimental work. Our overarching goal is to build an open research and development roadmap for dependable hybrid systems engineering that benefits from transferable expertise and skills from other disciplines while identifying core knowledge and technology gaps that need to be filled. This dependable-by-construction approach will prevent design pitfalls and accelerate the maturation of the HPC-QC ecosystem.
+
+#### Organizers
+- Edoardo Giusto, General Chair, University of Naples, Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
+- Eleanor Rieffel, NASA, US, [eleanor.rieffel@nasa.gov](mailto:eleanor.rieffel@nasa.gov)
+- Santiago Nuñez-Corrales, NCSA, US, [nunezco2@illinois.edu](mailto:nunezco2@illinois.edu)
+- Phuong Cao, ECE Illinois, US, [pcao3@illinois.edu](mailto:pcao3@illinois.edu)
