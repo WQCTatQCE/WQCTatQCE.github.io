@@ -1,7 +1,7 @@
-title: DCHCQCS@QCE
+title: WQCT@QCE
 preposition: ''
 description: >-
-  First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems - Co-located with [QCE24](https://qce.quantum.ieee.org/2024/)
+  Third Workshop on Quantum in Consumer Technology at [QCE24](https://qce.quantum.ieee.org/2024/)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -177,11 +177,11 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Reproducibility
+      - name: Session 1
         color: info
-      - name: Resiliency
+      - name: Session 2
         color: info
-      - name: Security and Privacy
+      - name: Session 3
         color: info
 
     # Hide icons on talk overview page
