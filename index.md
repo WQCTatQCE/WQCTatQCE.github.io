@@ -1,17 +1,14 @@
 ---
 layout: home
 ---
-Quantum Computing (QC) holds the promise of speeding up High-Performance Computing (HPC) workloads by exploiting inherent properties of qubits. Integrating QC in classical HPC systems thus paves the way to a new hybrid computing paradigm: HPC-QC. Such a paradigm unlocks new opportunities and poses fundamentally new challenges. The expectation of the utility of these hybrid systems depends on their dependability, or the ability to operate reliably and securely under a variety of conditions and ensure outcome reproducibility.
+The Workshop on Quantum in Consumer Technology is the third of its series at IEEE Quantum Week. Year after year, the Quantum Computing industry continues to develop toward a future in which it will play a major role in day-to-day consumer life. The Workshop on Quantum in Consumer Technology will discuss Quantum Technologies’ status, innovations, and future directions, with an interest in the interdisciplinary technologies, applications, manufacturing, and standards for consumer products, services, systems, and architectures.
 
-This workshop will:
-- identify integration challenges between classical and quantum technologies with a focus on end-to-end system dependability,
-- anticipate future failures and novel attacks that may affect the availability of HPC-QC systems,
-- solidify a diverse community that is inclusive of fields such as QC, cloud computing, HPC, network security, etc.
-
-Our workshop focuses on the need to develop new engineering principles that can define and guarantee the dependability of hybrid classical-quantum systems, and center on the development of metrics with predictive utility to estimate a priori the impact of design decisions: we believe it is possible to move into a more prescriptive classical- quantum co-design cycle rather than rely on purely experimental work. Our overarching goal is to build an open research and development roadmap for dependable hybrid systems engineering that benefits from transferable expertise and skills from other disciplines while identifying core knowledge and technology gaps that need to be filled. This dependable-by-construction approach will prevent design pitfalls and accelerate the maturation of the HPC-QC ecosystem.
 
 #### Organizers
+- Rafael Sotelo; General Chair; Quantum-South & Universidad de Montevideo; Uruguay; [rsotelo@ieee.org](mailto:rsotelo@ieee.org)
 - Edoardo Giusto, General Chair, University of Naples, Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
-- Eleanor Rieffel, NASA, US, [eleanor.rieffel@nasa.gov](mailto:eleanor.rieffel@nasa.gov)
-- Santiago Nuñez-Corrales, NCSA, US, [nunezco2@illinois.edu](mailto:nunezco2@illinois.edu)
-- Phuong Cao, ECE Illinois, US, [pcao3@illinois.edu](mailto:pcao3@illinois.edu)
+- Yuichi Nakamura; NEC Corporation; Japan; [yuichi_nakamura@nec.com](mailto:yuichi_nakamura@nec.com)
+- Jingbo Wang; The University of Western Australia; Australia; [jingbo.wang@uwa.edu.au](mailto:jingbo.wang@uwa.edu.au)
+- Salvador Venegas Andraca; The Unconventional Lab & Instituto Tecnológico de Monterrery; Mexico; [salvador.venegas-andraca@keble.oxon.org](mailto:salvador.venegas-andraca@keble.oxon.org)
+- Sreeraman Rajan; Carleton University; Canada; [sreeraman.rajan@carleton.ca](mailto:sreeraman.rajan@carleton.ca)
+- Himanshu Thapliyal; University of Tennessee; United States; [hthapliyal@utk.edu](mailto:hthapliyal@utk.edu)

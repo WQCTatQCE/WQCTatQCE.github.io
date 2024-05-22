@@ -1,19 +1,17 @@
 ---
-name: Reproducibility
+name: Session 1
 speakers:
   - TBA
 categories:
-  - Reproducibility
+  - Session 1
 #   - Talk
 ---
 
-Despite its prominence in classical computing, reproducibility remains a challenge in current QC research. The variability in error rates for individual qubits occurs on a time scale as short as seconds and minutes, complicating the reporting of computational outcomes. This variability poses significant hurdles to both replicating experiments and ensuring robustness in results. There is a pressing need for a deeper understanding of this variability to develop strategies across the entire QC stack to mitigate factors that undermine reproducibility. While there is a gradual move towards standardization of quantum technologies, more direct approaches are warranted.
+### Post-QuantumCryptography
+Panel Leader: Salvador Venegas Andraca
 
-This workshop session aims to explore strategies to enhance reproducibility in this domain by addressing several key areas:
-- Efficient data structures and scalable storage solutions to capture and preserve the details of quantum computations.
-- Establishment of standardized data formats and open-source repositories to facilitate data sharing and collaboration within the QC community.
-- Development of standardized benchmarks and automated
-validation testing methodologies to assess the performance and correctness of quantum computations.
+The panel discussion will delve into the process and challenges of implementing Post-Quantum Cryptography (PQC) in the industry. This topic is of high importance and has been one of the most debated issues at the World Economic Forum meetings. Panelists will explore the intricate process of transitioning to PQC, highlighting the technological, regulatory, and practical hurdles that industries face. They will also discuss the urgency of preparing for the quantum era to ensure cybersecurity resilience.
+
 
 ##### Session schedule
 

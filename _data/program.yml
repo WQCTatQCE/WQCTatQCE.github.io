@@ -5,13 +5,13 @@ days:
   rooms:
   - name: Room TBD
     talks:
-      - name: Reproducibility
+      - name: Session 1
         time_start: '09:00'
         time_end: '10:30'
-      - name: Resiliency
+      - name: Session 2
         time_start: '11:00'
         time_end: '12:30'
-      - name: Security and Privacy
+      - name: Session 3
         time_start: '14:30'
         time_end: '16:00'
   # - name: Room A

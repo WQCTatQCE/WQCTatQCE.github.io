@@ -1,9 +1,9 @@
 ---
-name: Security and Privacy
+name: Session 3
 speakers:
   - TBA
 categories:
-  - Security and Privacy
+  - Session 3
 #   - Talk
 # links:
 #   - name: Recodring
@@ -13,16 +13,10 @@ categories:
 #     absolute_url: https://en.wikipedia.org
 ---
 
-The integration of classical-quantum systems presents new security challenges, intertwining with existing concerns in classical network security. Preserving the confidentiality of sensitive data, ensuring the integrity of computations, and addressing potential vulnerabilities are paramount for instilling trust and fostering responsible advancement in this evolving domain. At the quantum level, reliance on classical systems for quantum control, coupled with the emergence of unforeseen attack vectors from both existing and novel adversaries, as well as the potential malicious manipulation of quantum program performance, necessitates thorough exploration.
+### Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities"
+Panel Leaders: Himanshu Thapliyal and Edoardo Giusto
 
-This workshop session delves into several critical facets of achieving security within classical-quantum integration:
-
-- Migration of classical systems to post-quantum cryptography.
-- Measuring the adoption rate of quantum-resistant cryptographic protocols and secure quantum secret exchange.
-- Ensuring security in both local and distributed quantum computations.
-- Safeguarding the quantum hardware supply chain amidst shifting geopolitical landscapes.
-- Exploring the potential of quantum network protocols to enhance security in classical and quantum domains.
-
+The third session will feature a paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities". This session will explore the cutting-edge intersection of quantum technology with the infrastructure of smart cities and the Internet of Things (IoT). There will be a call for papers on current research about practical applications, and future prospects of integrating quantum technologies in smart cities, focusing on their potential to make urban areas more efficient, sustainable, and secure.
 
 ##### Session schedule
 

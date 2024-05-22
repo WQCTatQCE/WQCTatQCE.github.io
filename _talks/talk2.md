@@ -1,22 +1,16 @@
 ---
-name: Resiliency
+name: Session 2
 speakers:
   - TBA
 categories:
-  - Resiliency
+  - Session 2
 #   - Talk
 # hide: true
 ---
-Despite advances, quantum systems remain entrenched within the NISQ era, susceptible to machine-inherent noise and errors originating from external factors.
-Sources of errors include environmental decoherence, limited gate fidelities, and hardware imperfections, collectively undermining the accuracy and reliability of quantum computations and thus impeding their practical applicability.
-Although we have gained insights into noise sources and their immediate effects within various quantum stacks, there remains a dearth of predictive models capable of assessing the propagation of quantum noise in quantum programs and applications, especially with larger qubit counts. 
-Understanding the scaling properties of noise is crucial for characterizing and mitigating complexity at the quantum control level while ensuring dependability.
+### Consumers and end-users of quantum computing/sensing/communication
+Panel Leaders: Sreeraman Rajan, Yuichi Nakamura, and Jingbo Wang
 
-This workshop session will address the resiliency challenge by focusing on several key areas:
-
-- Compilation and verification of code at the pulse level and above.
-- Assessing the complexity, verifiability, and reliability of quantum control and readout.
-- Developing models and methodologies for characterizing and designing fault-tolerant architectures.
+The panel will address the perspectives and implications for consumers and end-users of quantum computing, sensing, and communication technologies. As quantum technologies transition from research labs to real-world applications, understanding their impact on consumer everyday life and industry becomes crucial. Experts will discuss the potential benefits and challenges faced by end-users, including privacy concerns, data security, and the accessibility of quantum technologies. The discussion will also cover how these advancements could transform sectors such as healthcare, finance, and telecommunications. The discussion will bring together stakeholders from Industry (big enterprises like communication companies, health care, and startups), Government (research labs and policy), Granting agencies (NSERC, DND, Mitacs) and Academia). Attendees will gain insights into how they can prepare for the widespread adoption of quantum technologies and what it means for consumer behavior and future technological landscapes.
 
 ##### Session schedule
 
