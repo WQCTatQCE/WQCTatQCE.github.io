@@ -6,7 +6,7 @@ The Workshop on Quantum in Consumer Technology is the third of its series at IEE
 
 #### Organizers
 - Rafael Sotelo; General Chair; Quantum-South & Universidad de Montevideo; Uruguay; [rsotelo@ieee.org](mailto:rsotelo@ieee.org)
-- Edoardo Giusto, General Chair, University of Naples, Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
+- Edoardo Giusto, University of Naples Federico II, Italy, [egiusto@ieee.org](mailto:egiusto@ieee.org)
 - Yuichi Nakamura; NEC Corporation; Japan; [yuichi_nakamura@nec.com](mailto:yuichi_nakamura@nec.com)
 - Jingbo Wang; The University of Western Australia; Australia; [jingbo.wang@uwa.edu.au](mailto:jingbo.wang@uwa.edu.au)
 - Salvador Venegas Andraca; The Unconventional Lab & Instituto Tecnológico de Monterrery; Mexico; [salvador.venegas-andraca@keble.oxon.org](mailto:salvador.venegas-andraca@keble.oxon.org)
