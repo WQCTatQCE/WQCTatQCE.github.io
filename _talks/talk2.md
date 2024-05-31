@@ -1,5 +1,5 @@
 ---
-name: Session 2
+name: Session 2 - Consumers and end-users of quantum computing/sensing/communication
 speakers:
   - TBA
 categories:

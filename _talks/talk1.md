@@ -1,5 +1,5 @@
 ---
-name: Session 1
+name: Session 1 - Post-QuantumCryptography
 speakers:
   - TBA
 categories:
