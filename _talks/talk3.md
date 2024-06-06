@@ -41,9 +41,10 @@ Accepted papers will be included in the 2024 IEEE Quantum Week conference procee
 - Submission Link: [https://easychair.org/conferences/?conf=wqctqce2024](https://easychair.org/conferences/?conf=wqctqce2024)
 
 Important Dates:
-- Submission Deadline: **July 20, 2024**
-- Notification of Acceptance: **July 31, 2024**
-- Final Manuscript Due: **August 7, 2024**
+- Abstract Submission Deadline: **July 3, 2024**
+- Submission Deadline: **July 10, 2024**
+- Notification of Acceptance: **July 20, 2024**
+- Final Manuscript Due: **August 1, 2024**
 
 For additional information please contact the Session Organizers:
 - Himanshu Thapliyal, University of Tennessee, Knoxville, USA, [hthapliyal@utk.edu](mailto:hthapliyal@utk.edu)
