@@ -8,6 +8,10 @@ The workshop is made of three sessions:
 - Session 1 - Post-QuantumCryptography
 - Session 2 - Consumers and end-users of quantum computing/sensing/communication
 - Session 3 - Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities"
+    - ##### Call for paper open [here](/talks/talk3)!
+    
+
+
 
 #### Organizers
 - Rafael Sotelo; General Chair; Quantum-South & Universidad de Montevideo; Uruguay; [rsotelo@ieee.org](mailto:rsotelo@ieee.org)
