@@ -7,8 +7,9 @@ The Workshop on Quantum in Consumer Technology is the third of its series at IEE
 The workshop is made of three sessions:
 - Session 1 - Post-QuantumCryptography
 - Session 2 - Consumers and end-users of quantum computing/sensing/communication
-- Session 3 - Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities"
-    - ##### Call for paper open [here](/talks/talk3)!
+- Session 3 - Invited Talk session
+<!-- Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities" -->
+    <!-- - ##### Call for paper open [here](/talks/talk3)! -->
     
 
 
