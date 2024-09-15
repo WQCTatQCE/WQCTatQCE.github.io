@@ -11,6 +11,7 @@ The Workshop on Quantum in Consumer Technology is the third of its series at IEE
 <!-- Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities" -->
     
 ### PROGRAM (May be subjected to change)
+
 10:00 AM – 11:30 AM 
 Session I: 
 - ⁠Opening and welcome words
