@@ -1,6 +1,6 @@
 ---
 # name: Session 3 - Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities"
-name: Session 3 - Invited Talk session
+name: Session 3
 speakers:
   - TBA
 categories:

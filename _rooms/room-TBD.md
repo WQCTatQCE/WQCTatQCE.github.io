@@ -1,6 +1,6 @@
 ---
-name: Room TBD
+name: Room 520B
 # hide: true
 ---
 
-Room to be defined
+Room 520B
