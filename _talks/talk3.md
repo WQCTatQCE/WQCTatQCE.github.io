@@ -13,7 +13,7 @@ categories:
 #   - name: Wikipedia
 #     absolute_url: https://en.wikipedia.org
 ---
-### Invited talk session
+<!-- ### Invited talk session
 <!-- ### Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities"
 <!-- Panel Leaders: Himanshu Thapliyal and Edoardo Giusto
 
@@ -54,4 +54,9 @@ For additional information please contact the Session Organizers:
 
 ##### Session schedule
 
-TBA
+TBA -->
+
+
+3:00 PM – 4:30 PM  
+- ⁠Jerome Bourassa – Qubic: Quantum sensing for sensitive and resilient radar & communications
+- ⁠Open discussion on Quantum in Consumer Technology. Future steps. 
