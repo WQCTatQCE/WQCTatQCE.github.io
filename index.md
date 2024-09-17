@@ -10,24 +10,32 @@ The Workshop on Quantum in Consumer Technology is the third of its series at IEE
 - Session 3 - Invited Talk session -->
 <!-- Paper session on "Quantum sensors and quantum computing applications in IoT and Smart Cities" -->
     
-#### Program (May be subjected to change)
+#### Program
 
-10:00 AM – 11:30 AM 
-Session I: 
+
+
+10:00 AM – 11:30 AM
+
+Session I:
+
 - ⁠Opening and welcome words
-- ⁠Hiroaki Kobayashi - Tohoku University: QA-HPC Hybrid Computing Infrastructure for Quantum Transformation of Simulation-Data Science Combined Applications
-- ⁠Amr Helmy – University of Toronto: Packaged Non-Classical Sources and Strategies for their utilization in Quantum Enhanced Sensing Systems
-
-1:00 PM – 2:30 PM  
-Session II: 
+- ⁠⁠Amr Helmy – University of Toronto: Packaged Non-Classical Sources and Strategies for their utilization in Quantum Enhanced Sensing Systems
 - ⁠Tavis Bennett – University of Western Australia: Quantum algorithms for combinatorial optimization: commercial applications in logistics
 
-3:00 PM – 4:30 PM  
-Session III: 
+
+1:00 PM – 2:30 PM
+
+Session II:
+
+- Hiroaki Kobayashi - Tohoku University: QA-HPC Hybrid Computing Infrastructure for Quantum Transformation of Simulation-Data Science Combined Applications
 - ⁠Jerome Bourassa – Qubic: Quantum sensing for sensitive and resilient radar & communications
-- ⁠Open discussion on Quantum in Consumer Technology. Future steps.    
 
 
+3:00 PM – 4:30 PM
+
+Session III:
+
+- ⁠Open discussion on Quantum in Consumer Technology. Future steps.
 
 #### Organizers
 - Rafael Sotelo; General Chair; Quantum-South & Universidad de Montevideo; Uruguay; [rsotelo@ieee.org](mailto:rsotelo@ieee.org)
